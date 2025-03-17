@@ -10,8 +10,8 @@
   version = "25.1.0-asahi";
   src = fetchFromGitLab {
     # tracking: https://pagure.io/fedora-asahi/mesa/commits/asahi
-    domain = "gitlab.freedesktop.org";
-    owner = "asahi";
+    domain = "pagure.io";
+    owner = "fedora-asahi";
     repo = "mesa";
     rev = "asahi-20250221";
     hash = "sha256-xt49IaylZYoH3LxYu6Uxd+qRrqQfjI6FDeAD8MLeWP8=";
